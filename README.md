@@ -1,4 +1,4 @@
-Python script running OpenDSS via COM commands to demonstrate resilience in an electrical circuit with distributed generation
+Python script running OpenDSS via COM commands to demonstrate resilience in a distribution electrical network featuring distributed generation
 
 ---
 Repo created from template: **Cloud Blackboard**
